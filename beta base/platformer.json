@@ -13,7 +13,7 @@
     "macExecutableFilename": "",
     "orientation": "landscape",
     "packageName": "com.example.platformer",
-    "projectFile": "C:\\Users\\davi\\Desktop\\iHalley beta\\beta base\\platformer.json",
+    "projectFile": "C:\\Users\\davi\\Documents\\GitHub\\iHalley\\beta base\\platformer.json",
     "scaleMode": "linear",
     "sizeOnStartupMode": "adaptWidth",
     "useExternalSourceFiles": false,
@@ -698,7 +698,7 @@
         "gridWidth": 70,
         "snap": false,
         "windowMask": true,
-        "zoomFactor": 0.7406
+        "zoomFactor": 0.2906
       },
       "objectsGroups": [
         {
