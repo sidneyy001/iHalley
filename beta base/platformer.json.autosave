@@ -729,6 +729,24 @@
         "name": "NewObject2-1-2.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../Fotos da internet/Capacitor.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\Fotos da internet\\Capacitor.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../Fotos da internet/Capacitor-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\Fotos da internet\\Capacitor-1.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -754,14 +772,14 @@
         "grid": false,
         "gridB": 255,
         "gridG": 180,
-        "gridHeight": 32,
+        "gridHeight": 70,
         "gridOffsetX": 0,
         "gridOffsetY": 0,
         "gridR": 158,
-        "gridWidth": 32,
-        "snap": true,
-        "windowMask": false,
-        "zoomFactor": 1
+        "gridWidth": 70,
+        "snap": false,
+        "windowMask": true,
+        "zoomFactor": 0.3806
       },
       "objectsGroups": [],
       "variables": [],
@@ -774,7 +792,7 @@
           "locked": false,
           "name": "NewObject",
           "width": 799,
-          "x": 1,
+          "x": -1,
           "y": 1,
           "zOrder": 1,
           "numberProperties": [],
@@ -2219,6 +2237,21 @@
           "x": 382,
           "y": 93,
           "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 71,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject",
+          "width": 88,
+          "x": 489,
+          "y": 277,
+          "zOrder": 25,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4178,6 +4211,44 @@
                           }
                         ]
                       ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NewObject",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Capacitor",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\Fotos da internet\\Capacitor-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
                     }
                   ]
                 }
