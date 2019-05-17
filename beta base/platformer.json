@@ -13,7 +13,7 @@
     "macExecutableFilename": "",
     "orientation": "landscape",
     "packageName": "com.example.platformer",
-    "projectFile": "C:\\Users\\user\\Documents\\GitHub\\iHalley atualizado\\iHalley\\beta base\\platformer.json",
+    "projectFile": "C:\\Users\\Biblioteca\\Documents\\GitHub\\iHalley\\beta base\\platformer.json",
     "scaleMode": "linear",
     "sizeOnStartupMode": "adaptWidth",
     "useExternalSourceFiles": false,
@@ -729,6 +729,24 @@
         "name": "NewObject2-1-2.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "shadedDark06-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "shadedDark06-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "shadedDark05-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "shadedDark05-1.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1184,7 +1202,7 @@
         "gridWidth": 70,
         "snap": false,
         "windowMask": true,
-        "zoomFactor": 0.7406
+        "zoomFactor": 1.0106
       },
       "objectsGroups": [
         {
@@ -1996,8 +2014,8 @@
           "locked": false,
           "name": "LeftButton",
           "width": 97.5489,
-          "x": 39,
-          "y": 448,
+          "x": 36,
+          "y": 484,
           "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
@@ -2011,24 +2029,9 @@
           "locked": false,
           "name": "RightButton",
           "width": 94.1152,
-          "x": 147,
-          "y": 448,
+          "x": 139,
+          "y": 484,
           "zOrder": 22,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 202.235,
-          "layer": "GUI",
-          "locked": false,
-          "name": "ArrowButtonsBg",
-          "width": 202.235,
-          "x": 39,
-          "y": 384,
-          "zOrder": -10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3955,7 +3958,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "shadedDark05",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -3964,7 +3967,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "shadedDark05.png",
+                      "image": "shadedDark05-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4012,7 +4015,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "shadedDark06",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -4021,7 +4024,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "shadedDark06.png",
+                      "image": "shadedDark06-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
