@@ -13,7 +13,7 @@
     "macExecutableFilename": "",
     "orientation": "landscape",
     "packageName": "com.example.platformer",
-    "projectFile": "C:\\Users\\davi\\Documents\\GitHub\\iHalley\\platformer.json",
+    "projectFile": "C:\\Users\\davi\\Desktop\\alpha\\game\\platformer.json",
     "scaleMode": "linear",
     "sizeOnStartupMode": "adaptWidth",
     "useExternalSourceFiles": false,
@@ -581,7 +581,7 @@
         "gridWidth": 70,
         "snap": false,
         "windowMask": false,
-        "zoomFactor": 0.4706
+        "zoomFactor": 0.5306
       },
       "objectsGroups": [
         {
@@ -1586,6 +1586,21 @@
           "x": 1820,
           "y": 280,
           "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "JumpButton",
+          "width": 0,
+          "x": 592,
+          "y": 683,
+          "zOrder": 26,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
