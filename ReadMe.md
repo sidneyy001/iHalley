@@ -1,2 +1,1 @@
-# iHalley
-Jogo desenvolvido com foco em ensinar eletrônica.
+An example of a basic platformer (Mario-like) game made with GDevelop.
